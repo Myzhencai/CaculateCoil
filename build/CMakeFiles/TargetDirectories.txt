@@ -1,0 +1,3 @@
+/home/gaofei/CaculateCoil/build/CMakeFiles/rebuild_cache.dir
+/home/gaofei/CaculateCoil/build/CMakeFiles/edit_cache.dir
+/home/gaofei/CaculateCoil/build/CMakeFiles/mag_models.dir
